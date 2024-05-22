@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "correct": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct": 3
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "answers": ["Charles Dickens", "Leo Tolstoy", "William Shakespeare", "Mark Twain"],
+    "correct": 2
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "answers": ["90°C", "100°C", "110°C", "120°C"],
+    "correct": 1
+  }
+]
